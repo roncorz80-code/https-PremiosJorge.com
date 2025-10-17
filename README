@@ -1,0 +1,22 @@
+---
+
+## 🌍 **Publicación y Hosting**
+
+Puedes publicar esta página de forma **gratuita y rápida** usando cualquiera de estas plataformas:
+
+| Plataforma | Enlace | Ventajas |
+|-------------|--------|-----------|
+| 🟩 **Netlify** | [https://www.netlify.com/](https://www.netlify.com/) | Súper fácil: solo arrastra tu carpeta |
+| 🟦 **GitHub Pages** | [https://pages.github.com/](https://pages.github.com/) | Gratis, sin límite de visitas |
+| ⚫ **Vercel** | [https://vercel.com/](https://vercel.com/) | Profesional y con dominio personalizado |
+
+### Ejemplo de enlace:
+> https://premiosjorge.netlify.app
+
+---
+
+## 🧭 **Cómo Ejecutar el Proyecto Localmente**
+
+1. Descarga o clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/premiosjorge.git

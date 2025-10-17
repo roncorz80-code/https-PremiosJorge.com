@@ -1,0 +1,39 @@
+# 🎉 SORTEO DE UNA MOTO RONCO RZ250 2050 🏍️
+
+Bienvenido al sitio oficial del **Gran Sorteo de una Moto Ronco RZ250 modelo 2050**  
+Organizado por **PremiosJorge.com**, donde tú puedes ser el próximo ganador de esta increíble motocicleta totalmente nueva. 🎁
+
+---
+
+## 🚀 **Descripción del Proyecto**
+
+Este proyecto consiste en una **landing page moderna y responsiva**, desarrollada para promover un sorteo online con pago mediante **Yape** y confirmación vía **WhatsApp**.
+
+Su diseño combina una interfaz atractiva con información clara para que los usuarios participen fácilmente.
+
+---
+
+## 💡 **Características Principales**
+
+✅ Página 100% adaptable a dispositivos móviles  
+✅ Diseño moderno con colores vibrantes  
+✅ Imagen destacada de la moto Ronco RZ250 2050  
+✅ Sección de pago con QR de Yape integrado  
+✅ Botón directo de envío de comprobante por WhatsApp  
+✅ Código limpio y editable en HTML + CSS  
+
+---
+
+## 🧰 **Tecnologías Utilizadas**
+
+| Tipo | Herramienta / Tecnología |
+|------|--------------------------|
+| 🌐 Estructura | **HTML5** |
+| 🎨 Estilos | **CSS3 (con sombras, bordes redondeados y efectos)** |
+| ⚙️ Interactividad | **JavaScript básico (validación y botones)** |
+| 💰 Pagos | **Yape QR** |
+| 💬 Comunicación | **WhatsApp API** |
+
+---
+
+## 📁 **Estructura del Proyecto**
